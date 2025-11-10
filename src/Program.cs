@@ -1,16 +1,14 @@
 ﻿using System;
 using OpenTK.Windowing.Desktop;
+using OpenTkGraphic;
 
-namespace OpenTkTemplate
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        using (var game = new Game())
         {
-            using (var game = new Game())
-            {
-                game.Run();
-            }
+            game.Run();
         }
     }
 }

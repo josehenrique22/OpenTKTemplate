@@ -3,11 +3,10 @@ using OpenTK.Windowing.Common;
 using OpenTK.Windowing.Desktop;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 
-namespace OpenTkTemplate
+namespace OpenTkGraphic
 {
     public class Game : GameWindow
     {
-
         public Game(int width = 800, int height = 600, string title = "BasicOpenTK")
             : base(
                 GameWindowSettings.Default,

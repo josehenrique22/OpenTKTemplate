@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joser\\OneDrive\\Documentos\\C#\\OpenTK\\OpenTKTemplate\\OpenTKTemplate.csproj",
+      "projectUniqueName": "C:\\C#\\OpenTKTemplate\\OpenTKTemplate.csproj",
       "projectName": "OpenTKTemplate",
-      "projectPath": "C:\\Users\\joser\\OneDrive\\Documentos\\C#\\OpenTK\\OpenTKTemplate\\OpenTKTemplate.csproj",
+      "projectPath": "C:\\C#\\OpenTKTemplate\\OpenTKTemplate.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joser\\OneDrive\\Documentos\\C#\\OpenTK\\OpenTKTemplate\\obj\\",
+      "outputPath": "C:\\C#\\OpenTKTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -490,7 +490,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
